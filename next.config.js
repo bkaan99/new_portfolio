@@ -1,4 +1,6 @@
 module.exports = {
+	basePath: "/new_portfolio",
+  	output: "export",
 	reactStrictMode: true,
 	env: {
 		dir: '/',
