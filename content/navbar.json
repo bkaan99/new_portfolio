@@ -1,0 +1,18 @@
+[
+	{
+		"url": "/#about",
+		"title": "Hakkımda"
+	},
+	{
+		"url": "/case-studies",
+		"title": "Case Studies"
+	},
+	{
+		"url": "/articles",
+		"title": "Yazılar"
+	},
+	{
+		"url": "/projects",
+		"title": "Projeler"
+	}
+]
